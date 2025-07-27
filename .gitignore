@@ -1,2 +1,5 @@
 /realtimesst.log
 /.env
+/client/ada-online/node_modules
+/server/.env
+/server/__pycache__
